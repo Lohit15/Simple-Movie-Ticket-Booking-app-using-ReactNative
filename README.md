@@ -1,3 +1,3 @@
 # Simple-Movie-Ticket-Booking-app-using-ReactNative
 
-![](C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot (160).png)
+https://github.com/Lohit15/Simple-Movie-Ticket-Booking-app-using-ReactNative/blob/main/Screenshot%20(160).png?raw=true
